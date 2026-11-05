@@ -11,6 +11,6 @@
 </h1>
 
 <p align="center">
-Website <br> https://st-specialteam.netlify.app/ <br> 
-Join Community <br> https://discord.com/invite/EQZHmPfJHS <br>
+Site: https://st-specialteam.netlify.app/ <br> 
+Join Community: https://discord.com/invite/EQZHmPfJHS <br>
 </p>
