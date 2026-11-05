@@ -4,9 +4,9 @@
 
 ![image](https://github.com/Spesial-Team/.github/blob/main/profile/.github/ST_Banner.png?raw=true)
 
-<p align="center">
+<h1 align="center">
  🚀 Community Actively Collaborate
-</p>
+</h1>
 
 [Visit Site](https://st-specialteam.netlify.app/) <br> 
 [Join Community](https://discord.com/invite/EQZHmPfJHS)<br>
