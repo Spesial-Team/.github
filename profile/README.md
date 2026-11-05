@@ -1,4 +1,6 @@
-# 🎉 Welcome to Special Team
+<h1 align="center">
+ 🚀 Welcome to Special Team
+</h1>
 
 ---
 
