@@ -10,5 +10,7 @@
  🚀 Community Actively Collaborate
 </h1>
 
+<p align="center">
 [Visit Site](https://st-specialteam.netlify.app/) <br> 
 [Join Community](https://discord.com/invite/EQZHmPfJHS)<br>
+</p>
