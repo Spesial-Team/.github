@@ -2,7 +2,7 @@
 
 ---
 
-![image](https://raw.githubusercontent.com/Spesial-Team/.github/refs/heads/main/profile/.github/Untitled%20(39).png)
+![image](https://github.com/Spesial-Team/.github/blob/main/profile/.github/ST_Banner.png?raw=true)
 
 <p align="center">
   Welcome to Spesial-Team
